@@ -18,15 +18,16 @@
 
 using namespace std;
 
-
-
-
-
 void IntercambiaDouble(double x, double y){
 double aux = x;
 x = y;
 y = aux;
 }
+
+
+
+
+
 
 void OrdBurbuja (double v[], int util_v){
 int izda, i;
